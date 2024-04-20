@@ -1,0 +1,32 @@
+button{
+    width:75px;
+    height:50px;
+    border:none;
+}
+input{
+    background-color: lightgray;
+    border:none;
+    width:300px;
+    height:50px;
+}
+#equal
+{
+    width:150px ;
+    color:white;
+    background-color: rgb(0, 106, 255);
+}
+#add,#sub,#div,#mul,#dot,#del
+{
+    color: rgb(0, 106, 255);;
+}
+#clear
+{
+    color:red;
+}
+#style
+{
+    width:350px;
+    background-color: RGB(238 238 238);
+    border:1px solid black
+
+}
